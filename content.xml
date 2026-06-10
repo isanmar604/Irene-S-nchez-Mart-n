@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026060912352090ZIO6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026060912352074645W</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Almería Salvaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje trabaja los animales terrestres y marinos a través de la fauna de nuestra provincia: Almería. Está enfocado en alumnado NEAE del curso de 5 años.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781000740700</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq6huuhi-afrv8vsan</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhi-afrv8vsan</odePageId>
+      <odeBlockId>block-mq4wb8ub-6i9n1pxyo</odeBlockId>
+      <blockName>Almería Salvaje</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhi-afrv8vsan</odePageId>
+          <odeBlockId>block-mq4wb8ub-6i9n1pxyo</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-hpcj1y34f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Descubrimos los animales de nuestra ciudad: "Almería".</p>
+<p><img src="{{context_path}}/content/resources/Almeria_Salvaje.png" alt="Diseño y elaboración propia mediante la herramienta Canva." width="2245" height="1587" /></p>
+<p>Bienvenidos a nuestro proyecto donde vamos a descubrir los animales marinos y terrestres de nuestra ciudad mientras aprendemos jugando, explorando y descubriendo.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Descubrimos los animales de nuestra ciudad: \"Almería\".</p>\n<p><img src=\"{{context_path}}/content/resources/Almeria_Salvaje.png\" alt=\"Diseño y elaboración propia mediante la herramienta Canva.\" width=\"2245\" height=\"1587\" /></p>\n<p>Bienvenidos a nuestro proyecto donde vamos a descubrir los animales marinos y terrestres de nuestra ciudad mientras aprendemos jugando, explorando y descubriendo.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhj-q5oa6sxka</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhj-q5oa6sxka</odePageId>
+      <odeBlockId>block-mq4wb8ub-8oywqo96f</odeBlockId>
+      <blockName>Qué vamos a aprender</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhj-q5oa6sxka</odePageId>
+          <odeBlockId>block-mq4wb8ub-8oywqo96f</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-mkq1y9xd1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/SDA_Animales_en_Almeria.png" alt="Diseño y elaboración propia mediante la herramienta Canva." width="1414" height="2000" /></p>
+<p><a href="https://drive.google.com/file/d/1I423vKpdFInD6OI6flEuW1sBJLtXCZCW/view?usp=drive_linkb">https://drive.google.com/file/d/1I423vKpdFInD6OI6flEuW1sBJLtXCZCW/view?usp=drive_link </a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/SDA_Animales_en_Almeria.png\" alt=\"Diseño y elaboración propia mediante la herramienta Canva.\" width=\"1414\" height=\"2000\" /></p>\n<p><a href=\"https://drive.google.com/file/d/1I423vKpdFInD6OI6flEuW1sBJLtXCZCW/view?usp=drive_linkb\">https://drive.google.com/file/d/1I423vKpdFInD6OI6flEuW1sBJLtXCZCW/view?usp=drive_link </a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhk-j3fiwlnzm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del reto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del reto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del reto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhk-j3fiwlnzm</odePageId>
+      <odeBlockId>block-mq4wb8ub-k1ce5848k</odeBlockId>
+      <blockName>Que comience la aventura</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhk-j3fiwlnzm</odePageId>
+          <odeBlockId>block-mq4wb8ub-k1ce5848k</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-s3auwfexp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 18pt; font-family: impact, sans-serif; color: #ed5aa4;">🦀 NUESTRO RETO 🦀</span></p>
+<p><br />¡Hola amigos y amigas de la clase de 5 años del CEIP José Saramago!</p>
+<p>Soy la tortuga Marina 🐢 y necesito vuestra ayuda.</p>
+<p>Vamos a convertirnos en exploradores de animales para descubrir qué animales viven en nuestra ciudad, cuáles viven en el mar y en el campo y cómo debemos cuidarlos.</p>
+<p>Durante este proyecto vamos a:</p>
+<ul>
+<li>Jugar</li>
+<li>Investigar</li>
+<li>Visitar lugares increbles</li>
+<li>Aprender sonidos de animales</li>
+<li>Conocer el acuario</li>
+<li>Montar a caballo</li>
+<li>Muchas actividades divertidas.</li>
+</ul>
+<p>Al final crearemos entre todos “ALMERÍA SALVAJE”, una exposición con fotografías, trabajos y recuerdos de todo lo que hemos aprendido juntos.</p>
+<p>¿Estáis preparados para comenzar nuestra aventura? 🦀🐬🐴</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 18pt; font-family: impact, sans-serif; color: #ed5aa4;\">🦀 NUESTRO RETO 🦀</span></p>\n<p><br />¡Hola amigos y amigas de la clase de 5 años del CEIP José Saramago!</p>\n<p>Soy la tortuga Marina 🐢 y necesito vuestra ayuda.</p>\n<p>Vamos a convertirnos en exploradores de animales para descubrir qué animales viven en nuestra ciudad, cuáles viven en el mar y en el campo y cómo debemos cuidarlos.</p>\n<p>Durante este proyecto vamos a:</p>\n<ul>\n<li>Jugar</li>\n<li>Investigar</li>\n<li>Visitar lugares increbles</li>\n<li>Aprender sonidos de animales</li>\n<li>Conocer el acuario</li>\n<li>Montar a caballo</li>\n<li>Muchas actividades divertidas.</li>\n</ul>\n<p>Al final crearemos entre todos “ALMERÍA SALVAJE”, una exposición con fotografías, trabajos y recuerdos de todo lo que hemos aprendido juntos.</p>\n<p>¿Estáis preparados para comenzar nuestra aventura? 🦀🐬🐴</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhl-wrblwhujw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhl-wrblwhujw</odePageId>
+      <odeBlockId>block-mq4wb8ub-ewa2jjn3q</odeBlockId>
+      <blockName>Las actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhl-wrblwhujw</odePageId>
+          <odeBlockId>block-mq4wb8ub-ewa2jjn3q</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-emljhq5m4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: impact, sans-serif; font-size: 18pt; color: #00ccff;">🐠 NUESTRAS ACTIVIDADES 🐠</span></p>
+<p><br />En este proyecto vamos a aprender jugando y explorando juntos.</p>
+<p>Realizaremos actividades divertidas para conocer mejor los animales de nuestra ciudad y aprender a cuidarlos.</p>
+<p>Jugaremos, escucharemos sonidos, visitaremos lugares especiales y viviremos muchas aventuras con Marina la tortuga 🐢.</p>
+<p><img src="{{context_path}}/content/resources/tortuga.png" alt="Diseño y elaboración propia mediante Canva." width="2245" height="1587" /></p>
+<p>¿Preparados para empezar? 🌊</p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: impact, sans-serif; font-size: 18pt; color: #00ccff;\">🐠 NUESTRAS ACTIVIDADES 🐠</span></p>\n<p><br />En este proyecto vamos a aprender jugando y explorando juntos.</p>\n<p>Realizaremos actividades divertidas para conocer mejor los animales de nuestra ciudad y aprender a cuidarlos.</p>\n<p>Jugaremos, escucharemos sonidos, visitaremos lugares especiales y viviremos muchas aventuras con Marina la tortuga 🐢.</p>\n<p><img src=\"{{context_path}}/content/resources/tortuga.png\" alt=\"Diseño y elaboración propia mediante Canva.\" width=\"2245\" height=\"1587\" /></p>\n<p>¿Preparados para empezar? 🌊</p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhm-zsdn1aqr3</odePageId>
+  <odeParentPageId>page-mq6huuhl-wrblwhujw</odeParentPageId>
+  <pageName>Clasificamos animales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clasificamos animales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clasificamos animales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhm-zsdn1aqr3</odePageId>
+      <odeBlockId>block-mq4wb8ub-6vi8ewghm</odeBlockId>
+      <blockName>Animales marinos y terrestres</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhm-zsdn1aqr3</odePageId>
+          <odeBlockId>block-mq4wb8ub-6vi8ewghm</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-1xqn6d64s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 18pt; font-family: impact, sans-serif; color: #ff9900;">¿Qué vamos a hacer?</span></p>
+<p><br />Vamos a jugar a clasificar animales en diferentes grupos:</p>
+<ul>
+<li>Animales marinos</li>
+<li>Animales terrestes</li>
+</ul>
+<p>Usaremos pictogramas, imágenes, tarjetas y cajas TEACCH especiales para aprender jugando.</p>
+<p><img src="{{context_path}}/content/resources/animales_.png" alt="Pictogramas obtenidos de ARASAAC. Autoría: Sergio Palao. Licencia Creative Commons BY-NC-SA." width="2245" height="1587" /></p>
+<p><strong>¿Cómo trabajamos?</strong><br />👦 Trabajo individual<br />🧩 Material manipulativo<br />👀 Apoyos visuales</p>
+<p><strong>¿Qué aprenderemos?</strong><br />✅ Reconocer animales<br />✅ Clasificar imágenes<br />✅ Mejorar la atención y la comunicación</p>
+<p><strong>Herramientas que utilizamos:</strong></p>
+<ul>
+<li>Material de elaboraciçon propia de Canva</li>
+<li>Material TEACCH con cajas y tarjetas </li>
+<li>Pictogramas de Arasaac</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 18pt; font-family: impact, sans-serif; color: #ff9900;\">¿Qué vamos a hacer?</span></p>\n<p><br />Vamos a jugar a clasificar animales en diferentes grupos:</p>\n<ul>\n<li>Animales marinos</li>\n<li>Animales terrestes</li>\n</ul>\n<p>Usaremos pictogramas, imágenes, tarjetas y cajas TEACCH especiales para aprender jugando.</p>\n<p><img src=\"{{context_path}}/content/resources/animales_.png\" alt=\"Pictogramas obtenidos de ARASAAC. Autoría: Sergio Palao. Licencia Creative Commons BY-NC-SA.\" width=\"2245\" height=\"1587\" /></p>\n<p><strong>¿Cómo trabajamos?</strong><br />👦 Trabajo individual<br />🧩 Material manipulativo<br />👀 Apoyos visuales</p>\n<p><strong>¿Qué aprenderemos?</strong><br />✅ Reconocer animales<br />✅ Clasificar imágenes<br />✅ Mejorar la atención y la comunicación</p>\n<p><strong>Herramientas que utilizamos:</strong></p>\n<ul>\n<li>Material de elaboraciçon propia de Canva</li>\n<li>Material TEACCH con cajas y tarjetas </li>\n<li>Pictogramas de Arasaac</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq6huuhm-zsdn1aqr3</odePageId>
+      <odeBlockId>block-mq4wb8ub-qrsf5ga6g</odeBlockId>
+      <blockName>Clasificamos animales</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhm-zsdn1aqr3</odePageId>
+          <odeBlockId>block-mq4wb8ub-qrsf5ga6g</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-zo5rmbzt6</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-mq4wb8ub-zo5rmbzt6" data-evaluationb="false" data-evaluationid="56164b29-cf4f-4dcb-a187-cf641bc69994"></div><div class="clasifica-feedback-game"></div><div class="clasifica-instructions"><p>Arrastra cada tarjeta hasta su categoria.</p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%F3%E6%F7%F5%FD%E0%FB%F3%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A6%A0%F1%F1%F0%F7%F0%A2%BF%F4%A3%A3%A6%BF%AB%F1%A5%A1%BF%A2%F7%A5%A5%BF%F1%AB%F1%A4%AA%F1%A5%A2%F7%A0%F6%A0%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F3%A3%A1%F1%F6%A7%F6%A0%BF%A1%F3%F0%A5%BF%AB%A6%F7%F7%BF%A0%A3%A7%A1%BF%F1%A0%F6%A7%F3%A1%A4%F1%A3%F1%A5%F3%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A5%F4%F6%F6%F6%F3%A3%AB%BF%AA%A4%A7%F1%BF%A4%F7%A2%F0%BF%A3%A7%F4%AA%BF%F4%A2%AB%F3%A3%A7%A3%F4%A5%AB%A7%AA%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%AB%A2%F3%F4%A0%A3%F4%F1%BF%A2%AA%A6%A3%BF%AB%AA%A0%F7%BF%F4%F7%F7%AB%BF%F4%F4%F0%F1%AB%A3%AA%F3%A0%AB%A5%A2%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F3%A0%A3%A3%A2%A5%F0%F4%BF%A7%A0%A3%A2%BF%F6%F0%A3%A2%BF%A3%F7%AA%A0%BF%A5%F3%AB%A1%F6%A7%A3%F0%A2%F7%A3%A6%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F0%A7%A6%A6%F4%F7%A4%F1%BF%F3%A7%A4%AB%BF%AB%A3%F1%F7%BF%A0%A2%A0%AA%BF%AA%A3%F1%A2%A3%F3%A3%F6%F6%F3%F3%F3%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F3%A5%F7%A3%A1%A4%F0%A1%BF%F4%A2%AB%A4%BF%F4%F0%F6%A5%BF%A2%A0%A1%A4%BF%A5%AA%A1%A6%A4%F1%F1%A2%A1%A1%A4%F1%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%D3%FC%FB%FF%F3%FE%F7%E1%B2%E6%F7%E0%E0%F7%E1%E6%E0%F7%E1%B0%BE%B0%D3%FC%FB%FF%F3%FE%F7%E1%B2%FF%F3%E0%FB%FC%FD%E1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%BE%B0%D5%E0%E7%E2%FD%B2%A7%B0%BE%B0%D5%E0%E7%E2%FD%B2%A4%B0%BE%B0%D5%E0%E7%E2%FD%B2%A5%B0%BE%B0%D5%E0%E7%E2%FD%B2%AA%B0%BE%B0%D5%E0%E7%E2%FD%B2%AB%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A0%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A7%A4%A3%A4%A6%F0%A0%AB%BF%F1%F4%A6%F4%BF%A6%F6%F1%F0%BF%F3%A3%AA%A5%BF%F1%F4%A4%A6%A3%F0%F1%A4%AB%AB%AB%A6%B0%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%FF%E3%A6%E5%F0%AA%E7%F0%BF%E8%FD%A7%E0%FF%F0%E8%E6%A4%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%7F%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C2%E0%E7%F7%F0%F3%B2%E1%E7%E2%F7%E0%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%E1%E7%E2%F7%E0%F3%F6%FD%B2%FE%F3%B2%E2%E0%E7%F7%F0%F3%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0-%D6%F7%E1%F7%F3%E1%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F3%B2%E2%F3%E0%E6%FB%F6%F3%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2-%C3%E7%FB%F7%E0%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C6%FD%F6%FD%B2%E2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%FC%B2%B7%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B23%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%E1%B2%FA%F3%F1%F7%E0%FE%FD%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%F1%FD%FE%FD%F1%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%F7%FC%B2%E1%E7%B2%FE%E7%F5%F3%E0%BC%B23%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%F1%FE%F3%E1%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FF%F3%EB%FD%E0%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%BE%B2%B7%E1%BE%B2%E2%F7%E0%FD%B2%F3h%FC%B2%E2%E7%F7%F6%F7%E1%B2%FF%F7%F8%FD%E0%F3%E0%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B03%DF%F3%F5%FC%7F%F4%FB%F1%FD%B3%B2%C6%F3%FC%B2%E1%FD%FE%FD%B2%E6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%F1%F3%B2%FE%F3%B2%E2%F7%E0%F4%F7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%E6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%E0%F3%E1%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/pez cirujano azul.png" class="js-hidden clasifica-LinkImages">0</a><a href="{{context_path}}/content/resources/vaca.png" class="js-hidden clasifica-LinkImages">1</a><a href="{{context_path}}/content/resources/gato.png" class="js-hidden clasifica-LinkImages">2</a><a href="{{context_path}}/content/resources/delfín.png" class="js-hidden clasifica-LinkImages">3</a><a href="{{context_path}}/content/resources/perro.png" class="js-hidden clasifica-LinkImages">4</a><a href="{{context_path}}/content/resources/caballo.png" class="js-hidden clasifica-LinkImages">5</a><a href="{{context_path}}/content/resources/ballena.png" class="js-hidden clasifica-LinkImages">6</a><div class="clasifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuho-q3a7f1amf</odePageId>
+  <odeParentPageId>page-mq6huuhl-wrblwhujw</odeParentPageId>
+  <pageName>Sonidos de animales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sonidos de animales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sonidos de animales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuho-q3a7f1amf</odePageId>
+      <odeBlockId>block-mq4wb8ub-gfu98bl1c</odeBlockId>
+      <blockName>Quién hace este sonido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuho-q3a7f1amf</odePageId>
+          <odeBlockId>block-mq4wb8ub-gfu98bl1c</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-lui2dexz0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🔊 ¿QUIÉN HACE ESTE SONIDO?</p>
+<p>Vamos a escuchar sonidos de animales y tendremos que descubrir quién hace cada sonido.</p>
+<p>Jugaremos por parejas usando la pantalla digital y aprenderemos de forma divertida.</p>
+<p><a href="https://view.genially.com/63877e7941b20300127e3d12">https://view.genially.com/63877e7941b20300127e3d12</a> </p>
+<p>Recurso interactivo «[Animales y sonidos]». Autoría: [Rocío]. Publicado en Genially. Uso educativo.</p>
+<p><img src="{{context_path}}/content/resources/SONIDOS.png" alt="Pictogramas obtenidos de ARASAAC. Autoría: Sergio Palao. Licencia Creative Commons BY-NC-SA." width="2245" height="1587" /></p>
+<p><strong>¿Cómo trabajamos?</strong><br />👫 Por parejas<br />🎮 Juego interactivo<br />👂 Escucha activa</p>
+<p><strong>¿Qué aprenderemos?</strong><br />✅ Escuchar con atención<br />✅ Reconocer sonidos<br />✅ Esperar turnos<br />✅ Participar en grupo</p>
+<p><strong>Herramientas digitales:</strong></p>
+<ul>
+<li>Genially</li>
+<li>PDI táctil</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq4wb8ub-lui2dexz0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🔊 ¿QUIÉN HACE ESTE SONIDO?</p>\n<p>Vamos a escuchar sonidos de animales y tendremos que descubrir quién hace cada sonido.</p>\n<p>Jugaremos por parejas usando la pantalla digital y aprenderemos de forma divertida.</p>\n<p><a href=\"https://view.genially.com/63877e7941b20300127e3d12\">https://view.genially.com/63877e7941b20300127e3d12</a> </p>\n<p>Recurso interactivo «[Animales y sonidos]». Autoría: [Rocío]. Publicado en Genially. Uso educativo.</p>\n<p><img src=\"{{context_path}}/content/resources/SONIDOS.png\" alt=\"Pictogramas obtenidos de ARASAAC. Autoría: Sergio Palao. Licencia Creative Commons BY-NC-SA.\" width=\"2245\" height=\"1587\" /></p>\n<p><strong>¿Cómo trabajamos?</strong><br />👫 Por parejas<br />🎮 Juego interactivo<br />👂 Escucha activa</p>\n<p><strong>¿Qué aprenderemos?</strong><br />✅ Escuchar con atención<br />✅ Reconocer sonidos<br />✅ Esperar turnos<br />✅ Participar en grupo</p>\n<p><strong>Herramientas digitales:</strong></p>\n<ul>\n<li>Genially</li>\n<li>PDI táctil</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhq-cz4kya7ru</odePageId>
+  <odeParentPageId>page-mq6huuhl-wrblwhujw</odeParentPageId>
+  <pageName>Piscina terapéutica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Piscina terapéutica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Piscina terapéutica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhq-cz4kya7ru</odePageId>
+      <odeBlockId>block-mq4wb8ub-rkzrkd69g</odeBlockId>
+      <blockName>Al agua patos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhq-cz4kya7ru</odePageId>
+          <odeBlockId>block-mq4wb8ub-rkzrkd69g</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-9u1thyhm9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 18pt; font-family: impact, sans-serif; color: #cc99ff;">🐟 COMO PEZ EN EL AGUA🐟</span></p>
+<p><br />Vamos a aprender y disfrutar en la piscina terapéutica.</p>
+<p>Antes veremos vídeos de animales marinos que nadan en el mar y después realizaremos juegos en el agua para mover nuestro cuerpo y divertirnos.</p>
+<p><a href="https://www.youtube.com/watch?v=Fe-AmoBtp_A">https://www.youtube.com/watch?v=Fe-AmoBtp_A</a> </p>
+<p><img src="{{context_path}}/content/resources/smile_and_learn.jpeg" alt="Captura de pantalla del vídeo “Los animales acuáticos para niños” disponible en YouTube y utilizada con finalidad educativa. Fuente: YouTube." width="725" height="406" /></p>
+<p><strong>¿Cómo trabajamos?</strong><br />👦 Grupo clase<br />🏊 Actividades en piscina<br />💧 Juegos motores</p>
+<p><strong>¿Qué aprenderemos?</strong><br />✅ Mejorar el movimiento corporal<br />✅ Conocer animales marinos<br />✅ Disfrutar del agua<br />✅ Trabajar la autonomía</p>
+<p><strong>Herramientas digitales:</strong></p>
+<ul>
+<li>YouTube</li>
+<li>Vídeos de animales marinos</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 18pt; font-family: impact, sans-serif; color: #cc99ff;\">🐟 COMO PEZ EN EL AGUA🐟</span></p>\n<p><br />Vamos a aprender y disfrutar en la piscina terapéutica.</p>\n<p>Antes veremos vídeos de animales marinos que nadan en el mar y después realizaremos juegos en el agua para mover nuestro cuerpo y divertirnos.</p>\n<p><a href=\"https://www.youtube.com/watch?v=Fe-AmoBtp_A\">https://www.youtube.com/watch?v=Fe-AmoBtp_A</a> </p>\n<p><img src=\"{{context_path}}/content/resources/smile_and_learn.jpeg\" alt=\"Captura de pantalla del vídeo “Los animales acuáticos para niños” disponible en YouTube y utilizada con finalidad educativa. Fuente: YouTube.\" width=\"725\" height=\"406\" /></p>\n<p><strong>¿Cómo trabajamos?</strong><br />👦 Grupo clase<br />🏊 Actividades en piscina<br />💧 Juegos motores</p>\n<p><strong>¿Qué aprenderemos?</strong><br />✅ Mejorar el movimiento corporal<br />✅ Conocer animales marinos<br />✅ Disfrutar del agua<br />✅ Trabajar la autonomía</p>\n<p><strong>Herramientas digitales:</strong></p>\n<ul>\n<li>YouTube</li>\n<li>Vídeos de animales marinos</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhq-go3nvpqee</odePageId>
+  <odeParentPageId>page-mq6huuhl-wrblwhujw</odeParentPageId>
+  <pageName>Acuario</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Acuario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Acuario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhq-go3nvpqee</odePageId>
+      <odeBlockId>block-mq4wb8ub-x1nt4424o</odeBlockId>
+      <blockName>El fondo marino por descubrir</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhq-go3nvpqee</odePageId>
+          <odeBlockId>block-mq4wb8ub-x1nt4424o</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-rmilwfd3r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 18pt; font-family: impact, sans-serif; color: #ff9900;"><strong>🪸</strong>VISITAMOS EL ACUARIO<strong> 🪸</strong></span></p>
+<p>Vamos a visitar el acuario de Roquetas de Mar para descubrir animales marinos de cerca.</p>
+<p>Antes prepararemos nuestra visita con imágenes y vídeos de los animales que haya allí para saber qué animales vamos a encontrar y cómo reconocerlos. </p>
+<p><a href="https://www.aquariumcostadealmeria.com/">https://www.aquariumcostadealmeria.com/</a> </p>
+<p><img src="{{context_path}}/content/resources/acuario-entrada.jpg" alt="Imagen del Aquarium Costa de Almería utilizada con finalidad educativa y sin ánimo de lucro." width="592" height="277" /></p>
+<p>También trabajaremos las normas para portarnos súper bien y que nuestra única preocupación sea divertirnos.</p>
+<p><img src="{{context_path}}/content/resources/NORMAS.png" alt="Diseño y elaboración propia mediante Canva utilizando pictogramas de ARASAAC. Autoría de pictogramas: Sergio Palao. Licencia CC BY-NC-SA." width="2245" height="1587" /></p>
+<p><strong>¿Cómo trabajamos?</strong><br />👦 Gran grupo<br />🌍 Aprendizaje en el entorno<br />👀 Observación directa</p>
+<p><strong>¿Qué aprenderemos?</strong><br />✅ Reconocer animales marinos<br />✅ Respetar el entorno<br />✅ Observar y explorar<br />✅ Compartir experiencias</p>
+<p><strong>Herramientas digitales:</strong></p>
+<ul>
+<li>Normas con Canva</li>
+<li>PDI</li>
+<li>Fotografías</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 18pt; font-family: impact, sans-serif; color: #ff9900;\"><strong>🪸</strong>VISITAMOS EL ACUARIO<strong> 🪸</strong></span></p>\n<p>Vamos a visitar el acuario de Roquetas de Mar para descubrir animales marinos de cerca.</p>\n<p>Antes prepararemos nuestra visita con imágenes y vídeos de los animales que haya allí para saber qué animales vamos a encontrar y cómo reconocerlos. </p>\n<p><a href=\"https://www.aquariumcostadealmeria.com/\">https://www.aquariumcostadealmeria.com/</a> </p>\n<p><img src=\"{{context_path}}/content/resources/acuario-entrada.jpg\" alt=\"Imagen del Aquarium Costa de Almería utilizada con finalidad educativa y sin ánimo de lucro.\" width=\"592\" height=\"277\" /></p>\n<p>También trabajaremos las normas para portarnos súper bien y que nuestra única preocupación sea divertirnos.</p>\n<p><img src=\"{{context_path}}/content/resources/NORMAS.png\" alt=\"Diseño y elaboración propia mediante Canva utilizando pictogramas de ARASAAC. Autoría de pictogramas: Sergio Palao. Licencia CC BY-NC-SA.\" width=\"2245\" height=\"1587\" /></p>\n<p><strong>¿Cómo trabajamos?</strong><br />👦 Gran grupo<br />🌍 Aprendizaje en el entorno<br />👀 Observación directa</p>\n<p><strong>¿Qué aprenderemos?</strong><br />✅ Reconocer animales marinos<br />✅ Respetar el entorno<br />✅ Observar y explorar<br />✅ Compartir experiencias</p>\n<p><strong>Herramientas digitales:</strong></p>\n<ul>\n<li>Normas con Canva</li>\n<li>PDI</li>\n<li>Fotografías</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq6huuhq-go3nvpqee</odePageId>
+      <odeBlockId>block-1780904691093-oiix3u4as</odeBlockId>
+      <blockName>Arrastra</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhq-go3nvpqee</odePageId>
+          <odeBlockId>block-1780904691093-oiix3u4as</odeBlockId>
+          <odeIdeviceId>idevice-1780904691086-yog8493ws</odeIdeviceId>
+          <odeIdeviceTypeName>dragdrop</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="dragdrop-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780904691086-yog8493ws" data-evaluationb="false" data-evaluationid="56164b29-cf4f-4dcb-a187-cf641bc69994"></div><div class="dragdrop-instructions gameQP-instructions"><p>Ordena las normas para ir al acuario</p></div><div class="dragdrop-DataGame js-hidden">{"typeGame":"dragdrop","author":"","randomCards":true,"instructions":"<p>Ordena las normas para ir al acuario</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"definition":"1º","url":"{{context_path}}/content/resources/autobús.png","author":"","alt":"","audio":""},{"definition":"2º","url":"{{context_path}}/content/resources/levantar la lengüeta del cinturón de seguridad.png","author":"","alt":"","audio":""},{"definition":"3º","url":"{{context_path}}/content/resources/cinturón de seguridad.png","author":"","alt":"","audio":""},{"definition":"4º","url":"{{context_path}}/content/resources/coger de la mano.png","author":"","alt":"","audio":""},{"definition":"5º","url":"{{context_path}}/content/resources/acuario.png","author":"","alt":"","audio":""},{"definition":"6º","url":"{{context_path}}/content/resources/autobús.png","author":"","alt":"","audio":""}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":1,"mode":1,"typeDrag":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"56164b29-cf4f-4dcb-a187-cf641bc69994","id":"idevice-1780904691086-yog8493ws","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Arrastra","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><a href="{{context_path}}/content/resources/autobús.png" class="js-hidden dragdrop-LinkImages">0</a><a href="{{context_path}}/content/resources/levantar la lengüeta del cinturón de seguridad.png" class="js-hidden dragdrop-LinkImages">1</a><a href="{{context_path}}/content/resources/cinturón de seguridad.png" class="js-hidden dragdrop-LinkImages">2</a><a href="{{context_path}}/content/resources/coger de la mano.png" class="js-hidden dragdrop-LinkImages">3</a><a href="{{context_path}}/content/resources/acuario.png" class="js-hidden dragdrop-LinkImages">4</a><a href="{{context_path}}/content/resources/autobús.png" class="js-hidden dragdrop-LinkImages">5</a><div class="dragdrop-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhr-aa45a76ao</odePageId>
+  <odeParentPageId>page-mq6huuhl-wrblwhujw</odeParentPageId>
+  <pageName>Equinoterapia</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Equinoterapia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Equinoterapia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhr-aa45a76ao</odePageId>
+      <odeBlockId>block-mq4wb8ub-jxcm1l2xm</odeBlockId>
+      <blockName>Al galope</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhr-aa45a76ao</odePageId>
+          <odeBlockId>block-mq4wb8ub-jxcm1l2xm</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-q67v2uq2j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>🐴 NOS RELAJAMOS CON LOS CABALLOS 🐴</p>
+<p>Vamos a realizar varias sesiones de equinoterapia para aprender y disfrutar con los caballos y todo lo que nos transmiten.</p>
+<p>Antes veremos pictogramas e historias visuales para prepararnos y sentirnos tranquilos.</p>
+<p><img src="{{context_path}}/content/resources/equinoterapia.png" alt="Diseño y elaboración propia mediante Canva utilizando pictogramas de ARASAAC. Autoría de pictogramas: Sergio Palao. Licencia CC BY-NC-SA." width="2245" height="1587" /></p>
+<p><strong>¿Cómo trabajamos?</strong><br />👦 Gran grupo<br />🌿 Actividades en el entorno<br />💛 Trabajo emocional</p>
+<p><strong>¿Qué aprenderemos?</strong><br />✅ Relajarnos<br />✅ Mejorar la comunicación<br />✅ Respetar animales<br />✅ Disfrutar del entorno</p>
+<p><strong>Herramientas digitales:</strong><br />ARASAAC<br />PictoTraductor</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>🐴 NOS RELAJAMOS CON LOS CABALLOS 🐴</p>\n<p>Vamos a realizar varias sesiones de equinoterapia para aprender y disfrutar con los caballos y todo lo que nos transmiten.</p>\n<p>Antes veremos pictogramas e historias visuales para prepararnos y sentirnos tranquilos.</p>\n<p><img src=\"{{context_path}}/content/resources/equinoterapia.png\" alt=\"Diseño y elaboración propia mediante Canva utilizando pictogramas de ARASAAC. Autoría de pictogramas: Sergio Palao. Licencia CC BY-NC-SA.\" width=\"2245\" height=\"1587\" /></p>\n<p><strong>¿Cómo trabajamos?</strong><br />👦 Gran grupo<br />🌿 Actividades en el entorno<br />💛 Trabajo emocional</p>\n<p><strong>¿Qué aprenderemos?</strong><br />✅ Relajarnos<br />✅ Mejorar la comunicación<br />✅ Respetar animales<br />✅ Disfrutar del entorno</p>\n<p><strong>Herramientas digitales:</strong><br />ARASAAC<br />PictoTraductor</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq6huuhr-aa45a76ao</odePageId>
+      <odeBlockId>block-1780905079615-nn9vy3294</odeBlockId>
+      <blockName>Clasifica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhr-aa45a76ao</odePageId>
+          <odeBlockId>block-1780905079615-nn9vy3294</odeBlockId>
+          <odeIdeviceId>idevice-1780905079614-8mj9f04hr</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780905079614-8mj9f04hr" data-evaluationb="false" data-evaluationid="56164b29-cf4f-4dcb-a187-cf641bc69994"></div><div class="clasifica-feedback-game"></div><div class="clasifica-instructions"><p>Clasifica si puedo o no puedo hacer esto cuando vaya a equinoterapia.</p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D1%FE%F3%E1%FB%F4%FB%F1%F3%B2%E1%FB%B2%E2%E7%F7%F6%FD%B2%FD%B2%FC%FD%B2%E2%E7%F7%F6%FD%B2%FA%F3%F1%F7%E0%B2%F7%E1%E6%FD%B2%F1%E7%F3%FC%F6%FD%B2%E4%F3%EB%F3%B2%F3%B2%F7%E3%E7%FB%FC%FD%E6%F7%E0%F3%E2%FB%F3%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A3%A0%F3%F7%A1%F6%F3%F0%BF%A0%A3%F4%F6%BF%A2%F6%A5%A4%BF%A2%A7%AA%A0%BF%A6%F3%AB%A2%A0%F7%A6%F3%A0%F4%A7%AA%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F4%A4%A3%F6%A3%F0%A5%F3%BF%F6%A4%A3%A7%BF%AA%A2%F4%A5%BF%A4%AA%AB%A4%BF%F3%A3%A1%AA%A4%F1%A4%F7%A6%F6%A1%A7%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A3%AA%F1%A1%F4%F7%AB%A1%BF%A3%F6%A0%F3%BF%F1%A1%A0%F4%BF%F0%F3%A2%A6%BF%A4%A3%F0%A4%F7%F4%AA%F1%A5%A3%A7%A1%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A6%A2%A7%F1%A2%A2%A6%A0%BF%A5%A1%F1%A5%BF%F1%AA%A4%A0%BF%F6%F6%A3%F3%BF%F4%F7%A0%A1%F3%A2%AB%A1%A4%F6%A3%A0%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F0%A3%F3%F4%A0%F1%A3%A5%BF%A6%F1%A4%F4%BF%F3%AB%A4%A1%BF%F4%F4%F4%A4%BF%A1%A7%F4%AA%F6%F7%F1%AA%A2%A7%A5%A7%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A7%F4%A4%F3%A2%A0%F7%F3%BF%F7%F0%F6%F0%BF%A2%A0%F3%A5%BF%A4%AA%F4%A2%BF%F3%AA%F6%F4%F6%A0%A2%A2%A2%A0%A5%A5%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F0%A0%F1%AA%F4%F7%A3%F3%BF%AA%F3%A2%A1%BF%A7%F0%A2%AB%BF%AA%F0%A3%AB%BF%A2%A2%A4%AB%A7%F3%F0%F0%A0%A2%F4%A6%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%D7%E1%E6s%B2%F0%FB%F7%FC%B2%BA%C2%C7%D7%D6%DD%BB%B0%BE%B0%D7%E1%E6s%B2%FF%F3%FE%B2%BA%DC%DD%B2%C2%C7%D7%D6%DD%BB%B0%BE%B0%D5%E0%E7%E2%FD%B2%A1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%BE%B0%D5%E0%E7%E2%FD%B2%A7%B0%BE%B0%D5%E0%E7%E2%FD%B2%A4%B0%BE%B0%D5%E0%E7%E2%FD%B2%A5%B0%BE%B0%D5%E0%E7%E2%FD%B2%AA%B0%BE%B0%D5%E0%E7%E2%FD%B2%AB%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A0%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A7%A4%A3%A4%A6%F0%A0%AB%BF%F1%F4%A6%F4%BF%A6%F6%F1%F0%BF%F3%A3%AA%A5%BF%F1%F4%A4%A6%A3%F0%F1%A4%AB%AB%AB%A6%B0%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%AB%A2%A7%A2%A5%AB%A4%A3%A6%BF%AA%FF%F8%AB%F4%A2%A6%FA%E0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%7F%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C2%E0%E7%F7%F0%F3%B2%E1%E7%E2%F7%E0%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%E1%E7%E2%F7%E0%F3%F6%FD%B2%FE%F3%B2%E2%E0%E7%F7%F0%F3%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0-%D6%F7%E1%F7%F3%E1%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F3%B2%E2%F3%E0%E6%FB%F6%F3%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2-%C3%E7%FB%F7%E0%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C6%FD%F6%FD%B2%E2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%FC%B2%B7%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B23%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%E1%B2%FA%F3%F1%F7%E0%FE%FD%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%F1%FD%FE%FD%F1%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%F7%FC%B2%E1%E7%B2%FE%E7%F5%F3%E0%BC%B23%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%F1%FE%F3%E1%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FF%F3%EB%FD%E0%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%BE%B2%B7%E1%BE%B2%E2%F7%E0%FD%B2%F3h%FC%B2%E2%E7%F7%F6%F7%E1%B2%FF%F7%F8%FD%E0%F3%E0%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B03%DF%F3%F5%FC%7F%F4%FB%F1%FD%B3%B2%C6%F3%FC%B2%E1%FD%FE%FD%B2%E6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%F1%F3%B2%FE%F3%B2%E2%F7%E0%F4%F7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%E6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%E0%F3%E1%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/pasear al caballo.png" class="js-hidden clasifica-LinkImages">0</a><a href="{{context_path}}/content/resources/gritar.png" class="js-hidden clasifica-LinkImages">1</a><a href="{{context_path}}/content/resources/montar a caballo.png" class="js-hidden clasifica-LinkImages">2</a><a href="{{context_path}}/content/resources/pegar.png" class="js-hidden clasifica-LinkImages">3</a><a href="{{context_path}}/content/resources/acariciar.png" class="js-hidden clasifica-LinkImages">4</a><a href="{{context_path}}/content/resources/subir al caballo.png" class="js-hidden clasifica-LinkImages">5</a><a href="{{context_path}}/content/resources/llorar.png" class="js-hidden clasifica-LinkImages">6</a><div class="clasifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhs-ezbjm12en</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhs-ezbjm12en</odePageId>
+      <odeBlockId>block-mq4wb8ub-c4o7fpqta</odeBlockId>
+      <blockName>Pasito a pasito</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhs-ezbjm12en</odePageId>
+          <odeBlockId>block-mq4wb8ub-c4o7fpqta</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-ntnafnxpr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>⏳ NUESTRA AVENTURA PASO A PASO⏳<br />Así organizamos todas las actividades de nuestro proyecto “Almería Salvaje”.</p>
+<p>Con esta línea del tiempo podremos ver qué actividades vamos realizando y recordar todo lo que hemos aprendido juntos.</p>
+<p><img src="{{context_path}}/content/resources/Diseno_sin_titulo.png" alt="Recurso interactivo de elaboración propia creado con Genially." width="793" height="1121" /></p>
+<p><a href="https://view.genially.com/67cf17cb3784015357ac2162">https://view.genially.com/67cf17cb3784015357ac2162</a> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>⏳ NUESTRA AVENTURA PASO A PASO⏳<br />Así organizamos todas las actividades de nuestro proyecto “Almería Salvaje”.</p>\n<p>Con esta línea del tiempo podremos ver qué actividades vamos realizando y recordar todo lo que hemos aprendido juntos.</p>\n<p><img src=\"{{context_path}}/content/resources/Diseno_sin_titulo.png\" alt=\"Recurso interactivo de elaboración propia creado con Genially.\" width=\"793\" height=\"1121\" /></p>\n<p><a href=\"https://view.genially.com/67cf17cb3784015357ac2162\">https://view.genially.com/67cf17cb3784015357ac2162</a> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhs-ifptozff5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhs-ifptozff5</odePageId>
+      <odeBlockId>block-mq4wb8ub-wn866352v</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhs-ifptozff5</odePageId>
+          <odeBlockId>block-mq4wb8ub-wn866352v</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-202kiywd8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<h1 data-section-id="lb9cfh" data-start="1489" data-end="1527"><span style="font-size: 14pt;">📸 PRODUCTO FINAL: “ALMERÍA SALVAJE”</span><span style="font-size: 14pt;">📸</span></h1>
+<p data-start="1529" data-end="1658">Al final del proyecto realizaremos una exposición con fotografías, trabajos y experiencias de todas las actividades realizadas.</p>
+<p data-start="1660" data-end="1763">Compartiremos con nuestras familias todo lo que hemos aprendido sobre los animales y nuestro entorno.</p>
+<p data-start="1765" data-end="1861">También publicaremos nuestras aventuras y recuerdos en Classroom para seguir aprendiendo juntos.</p>
+<p data-start="1765" data-end="1861"><strong><img src="{{context_path}}/content/resources/Google_Classroom_Logo.svg.png" alt="Logotipo de Google Classroom utilizado con finalidad educativa. Fuente: Google." width="250" height="216" /></strong></p>
+<p data-start="1765" data-end="1861"><strong>Que aprendemos</strong></p>
+<p data-start="1765" data-end="1861">✅ Compartir experiencias<br data-start="1933" data-end="1936" />✅ Expresarnos<br data-start="1949" data-end="1952" />✅ Recordar lo aprendido<br data-start="1975" data-end="1978" />✅ Participar en grupo<br data-start="1999" data-end="2002" />✅ Valorar nuestro trabajo</p>
+<p data-start="1765" data-end="1861"></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<h1 data-section-id=\"lb9cfh\" data-start=\"1489\" data-end=\"1527\"><span style=\"font-size: 14pt;\">📸 PRODUCTO FINAL: “ALMERÍA SALVAJE”</span><span style=\"font-size: 14pt;\">📸</span></h1>\n<p data-start=\"1529\" data-end=\"1658\">Al final del proyecto realizaremos una exposición con fotografías, trabajos y experiencias de todas las actividades realizadas.</p>\n<p data-start=\"1660\" data-end=\"1763\">Compartiremos con nuestras familias todo lo que hemos aprendido sobre los animales y nuestro entorno.</p>\n<p data-start=\"1765\" data-end=\"1861\">También publicaremos nuestras aventuras y recuerdos en Classroom para seguir aprendiendo juntos.</p>\n<p data-start=\"1765\" data-end=\"1861\"><strong><img src=\"{{context_path}}/content/resources/Google_Classroom_Logo.svg.png\" alt=\"Logotipo de Google Classroom utilizado con finalidad educativa. Fuente: Google.\" width=\"250\" height=\"216\" /></strong></p>\n<p data-start=\"1765\" data-end=\"1861\"><strong>Que aprendemos</strong></p>\n<p data-start=\"1765\" data-end=\"1861\">✅ Compartir experiencias<br data-start=\"1933\" data-end=\"1936\" />✅ Expresarnos<br data-start=\"1949\" data-end=\"1952\" />✅ Recordar lo aprendido<br data-start=\"1975\" data-end=\"1978\" />✅ Participar en grupo<br data-start=\"1999\" data-end=\"2002\" />✅ Valorar nuestro trabajo</p>\n<p data-start=\"1765\" data-end=\"1861\"></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuht-roxbunymp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuht-roxbunymp</odePageId>
+      <odeBlockId>block-mq4wb8ub-q7tyaaqr6</odeBlockId>
+      <blockName>Evaluar para mejorar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuht-roxbunymp</odePageId>
+          <odeBlockId>block-mq4wb8ub-q7tyaaqr6</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-946gvi905</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>⭐ ¿CÓMO APRENDEMOS? ⭐ <br />Durante el proyecto iremos aprendiendo y mejorando poco a poco hasta conseguir hacernos verdaderos expertos/as de los animales marinos y terrestre y en especial de los que encontramos en nuestra tierra: Almería.</p>
+<p>Para saber todo lo que hemos aprendido utilizaremos herramientas visuales y sencillas que nos ayudarán a participar y expresarnos como son rúbricas o dianas de evaluación.</p>
+<p><img src="{{context_path}}/content/resources/Evaluacion.png" alt="Imagen de elaboración propia creada con Canva." width="2245" height="1587" /></p>
+<p>A continuación, se inserta el documento donde se recoge toda la información referente a la evaluación:</p>
+<p><a href="https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?tab=t.0">https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?tab=t.0</a> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>⭐ ¿CÓMO APRENDEMOS? ⭐ <br />Durante el proyecto iremos aprendiendo y mejorando poco a poco hasta conseguir hacernos verdaderos expertos/as de los animales marinos y terrestre y en especial de los que encontramos en nuestra tierra: Almería.</p>\n<p>Para saber todo lo que hemos aprendido utilizaremos herramientas visuales y sencillas que nos ayudarán a participar y expresarnos como son rúbricas o dianas de evaluación.</p>\n<p><img src=\"{{context_path}}/content/resources/Evaluacion.png\" alt=\"Imagen de elaboración propia creada con Canva.\" width=\"2245\" height=\"1587\" /></p>\n<p>A continuación, se inserta el documento donde se recoge toda la información referente a la evaluación:</p>\n<p><a href=\"https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?tab=t.0\">https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?tab=t.0</a> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhu-5il13akzs</odePageId>
+  <odeParentPageId>page-mq6huuht-roxbunymp</odeParentPageId>
+  <pageName>Diana</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhu-5il13akzs</odePageId>
+      <odeBlockId>block-mq4wb8ub-oxeybus4j</odeBlockId>
+      <blockName>Dando en la clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhu-5il13akzs</odePageId>
+          <odeBlockId>block-mq4wb8ub-oxeybus4j</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-962h6pu6l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>🎯 <strong>DIANA DE AUTOEVALUACIÓN</strong>🎯</p>
+<p>Con nuestra diana podremos pensar y hablar sobre cómo hemos trabajado durante el proyecto “Almería Salvaje”.</p>
+<p><strong>Valoraremos:</strong><br />⭐ Lo que hemos aprendido.<br />⭐ Cómo hemos trabajado con los compañeros.<br />⭐ La ayuda que hemos necesitado.<br />⭐ Nuestra participación en las actividades.</p>
+<p><img src="{{context_path}}/content/resources/1.png" alt="Diseño y elaboración propia mediante Canva." width="2000" height="1414" /></p>
+<p>Usaremos apoyos visuales y colores para hacerlo de forma sencilla y divertida.</p>
+<p><img src="{{context_path}}/content/resources/2.png" alt="Diseño y elaboración propia mediante Canva." width="2000" height="1414" /></p>
+<p><a href="https://drive.google.com/file/d/16nSzvP-i6h7ozTroH2BYsfaAPSBGHmYa/view?usp=drive_link">https://drive.google.com/file/d/16nSzvP-i6h7ozTroH2BYsfaAPSBGHmYa/view?usp=drive_link</a> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>🎯 <strong>DIANA DE AUTOEVALUACIÓN</strong>🎯</p>\n<p>Con nuestra diana podremos pensar y hablar sobre cómo hemos trabajado durante el proyecto “Almería Salvaje”.</p>\n<p><strong>Valoraremos:</strong><br />⭐ Lo que hemos aprendido.<br />⭐ Cómo hemos trabajado con los compañeros.<br />⭐ La ayuda que hemos necesitado.<br />⭐ Nuestra participación en las actividades.</p>\n<p><img src=\"{{context_path}}/content/resources/1.png\" alt=\"Diseño y elaboración propia mediante Canva.\" width=\"2000\" height=\"1414\" /></p>\n<p>Usaremos apoyos visuales y colores para hacerlo de forma sencilla y divertida.</p>\n<p><img src=\"{{context_path}}/content/resources/2.png\" alt=\"Diseño y elaboración propia mediante Canva.\" width=\"2000\" height=\"1414\" /></p>\n<p><a href=\"https://drive.google.com/file/d/16nSzvP-i6h7ozTroH2BYsfaAPSBGHmYa/view?usp=drive_link\">https://drive.google.com/file/d/16nSzvP-i6h7ozTroH2BYsfaAPSBGHmYa/view?usp=drive_link</a> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhv-zy1c6vq2f</odePageId>
+  <odeParentPageId>page-mq6huuht-roxbunymp</odeParentPageId>
+  <pageName>Rúbrica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhv-zy1c6vq2f</odePageId>
+      <odeBlockId>block-mq4wb8ub-bny5s11hl</odeBlockId>
+      <blockName>En que grado lo he conseguido...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhv-zy1c6vq2f</odePageId>
+          <odeBlockId>block-mq4wb8ub-bny5s11hl</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ub-vvegqlvrj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><strong>📋 RÚBRICA DE EVALUACIÓN 📋 </strong><br />Con esta rúbrica observaremos todo lo que hemos aprendido durante nuestro proyecto.</p>
+<p>Valoraremos:<br />🐠 Participación.<br />🐠 Comunicación.<br />🐠 Uso de apoyos visuales.<br />🐠 Respeto de normas y turnos.<br />🐠 Motivación en las actividades.</p>
+<p>Esta herramienta nos ayudará a seguir aprendiendo y mejorando juntos.</p>
+<p><img src="{{context_path}}/content/resources/RUBRICA.png" alt="Diseño y elaboración propia mediante Canva." width="635" height="898" /></p>
+<p><a href="https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?usp=drive_link">https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?usp=drive_link</a> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><strong>📋 RÚBRICA DE EVALUACIÓN 📋 </strong><br />Con esta rúbrica observaremos todo lo que hemos aprendido durante nuestro proyecto.</p>\n<p>Valoraremos:<br />🐠 Participación.<br />🐠 Comunicación.<br />🐠 Uso de apoyos visuales.<br />🐠 Respeto de normas y turnos.<br />🐠 Motivación en las actividades.</p>\n<p>Esta herramienta nos ayudará a seguir aprendiendo y mejorando juntos.</p>\n<p><img src=\"{{context_path}}/content/resources/RUBRICA.png\" alt=\"Diseño y elaboración propia mediante Canva.\" width=\"635\" height=\"898\" /></p>\n<p><a href=\"https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?usp=drive_link\">https://docs.google.com/document/d/1G3itfO-HZVTZkEKTU4dgC8lKM7I0d0vgNiP7NR_Gj2w/edit?usp=drive_link</a> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhv-rutayy3ut</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhv-rutayy3ut</odePageId>
+      <odeBlockId>block-mq4wb8uc-79uuhixix</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhv-rutayy3ut</odePageId>
+          <odeBlockId>block-mq4wb8uc-79uuhixix</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8uc-2exdifpdb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>🔒 <strong>CUIDAMOS NUESTRA INFORMACIÓN </strong>🔒<br />En nuestro proyecto aprendemos a usar las tecnologías de forma segura y responsable.</p>
+<p>Siempre utilizaremos internet acompañado de nuestros maestros y maestras y respetaremos la privacidad de todas las personas.</p>
+<p><strong>Normas:</strong></p>
+<p>✅ No compartimos datos personales<br />✅ Pedimos permiso para las fotos<br />✅ Usamos internet con ayuda<br />✅ Cuidamos los dispositivos</p>
+<p><img src="{{context_path}}/content/resources/IRENE_SANCHEZ_MARTIN_(1).png" alt="Diseño de elaboración propia elaborado con Canva." width="943" height="2000" /></p>
+<p><a href="https://drive.google.com/file/d/1LvytaGjxnaSOxojyTQOsoerwGGSE1nJM/view?usp=sharing">https://drive.google.com/file/d/1LvytaGjxnaSOxojyTQOsoerwGGSE1nJM/view?usp=sharing</a> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>🔒 <strong>CUIDAMOS NUESTRA INFORMACIÓN </strong>🔒<br />En nuestro proyecto aprendemos a usar las tecnologías de forma segura y responsable.</p>\n<p>Siempre utilizaremos internet acompañado de nuestros maestros y maestras y respetaremos la privacidad de todas las personas.</p>\n<p><strong>Normas:</strong></p>\n<p>✅ No compartimos datos personales<br />✅ Pedimos permiso para las fotos<br />✅ Usamos internet con ayuda<br />✅ Cuidamos los dispositivos</p>\n<p><img src=\"{{context_path}}/content/resources/IRENE_SANCHEZ_MARTIN_(1).png\" alt=\"Diseño de elaboración propia elaborado con Canva.\" width=\"943\" height=\"2000\" /></p>\n<p><a href=\"https://drive.google.com/file/d/1LvytaGjxnaSOxojyTQOsoerwGGSE1nJM/view?usp=sharing\">https://drive.google.com/file/d/1LvytaGjxnaSOxojyTQOsoerwGGSE1nJM/view?usp=sharing</a> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhw-y88fztrkc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhw-y88fztrkc</odePageId>
+      <odeBlockId>block-mq4wb8uc-i0oos3r4z</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhw-y88fztrkc</odePageId>
+          <odeBlockId>block-mq4wb8uc-i0oos3r4z</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8uc-74kium4au</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>📚 <strong>GUÍA DIDÁCTICA </strong>📚<br />En este apartado se recoge la información necesaria para desarrollar la situación de aprendizaje “Almería Salvaje”.</p>
+<p>Incluye la relación entre tareas y criterios de evaluación, metodología, herramientas digitales, organización temporal y propuestas de atención a la diversidad.</p>
+<p><a href="https://docs.google.com/document/d/1SmMbQEJW09mNRjG15AH_so4Na1lnSFHZ/edit?rtpof=true&tab=t.0">https://docs.google.com/document/d/1SmMbQEJW09mNRjG15AH_so4Na1lnSFHZ/edit?rtpof=true&tab=t.0</a> </p>
+<p>Tambien dejamos a continuación un banco de recursos digitales para docentes organizados por categorias.</p>
+<p><img src="{{context_path}}/content/resources/Padlet.png" alt="Recurso digital de elaboración propia mediante Padlet." width="1748" height="1240" /></p>
+<p><a href="https://padlet.com/irenesanchezmartin29/herramientas-digitales-esy9q46oagcwnfyi">https://padlet.com/irenesanchezmartin29/herramientas-digitales-esy9q46oagcwnfyi</a> </p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>📚 <strong>GUÍA DIDÁCTICA </strong>📚<br />En este apartado se recoge la información necesaria para desarrollar la situación de aprendizaje “Almería Salvaje”.</p>\n<p>Incluye la relación entre tareas y criterios de evaluación, metodología, herramientas digitales, organización temporal y propuestas de atención a la diversidad.</p>\n<p><a href=\"https://docs.google.com/document/d/1SmMbQEJW09mNRjG15AH_so4Na1lnSFHZ/edit?rtpof=true&tab=t.0\">https://docs.google.com/document/d/1SmMbQEJW09mNRjG15AH_so4Na1lnSFHZ/edit?rtpof=true&tab=t.0</a> </p>\n<p>Tambien dejamos a continuación un banco de recursos digitales para docentes organizados por categorias.</p>\n<p><img src=\"{{context_path}}/content/resources/Padlet.png\" alt=\"Recurso digital de elaboración propia mediante Padlet.\" width=\"1748\" height=\"1240\" /></p>\n<p><a href=\"https://padlet.com/irenesanchezmartin29/herramientas-digitales-esy9q46oagcwnfyi\">https://padlet.com/irenesanchezmartin29/herramientas-digitales-esy9q46oagcwnfyi</a> </p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6huuhx-j5t4rscfn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6huuhx-j5t4rscfn</odePageId>
+      <odeBlockId>block-mq4wb8ud-l66lrfvn6</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhx-j5t4rscfn</odePageId>
+          <odeBlockId>block-mq4wb8ud-l66lrfvn6</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ud-g0bgbi44c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>🐬 CRÉDITOS 🐬</p>
+<p><strong>Autora:</strong> Irene Sánchez Martín</p>
+<p><strong>Descripción</strong><br />Situación de Aprendizaje dirigida a alumnado de 5 años de aula específica TEA.</p>
+<p><strong>Herramientas utilizadas:</strong></p>
+<ul>
+<li>Canva</li>
+<li>Genially</li>
+<li>Prezi</li>
+<li>Voki</li>
+<li>Classroom</li>
+<li>Kahoot</li>
+<li>eXeLearning</li>
+<li>ARASAAC</li>
+</ul>
+<p><strong>Recursos visuales<br /></strong></p>
+<ul>
+<li>Elaboración propia mediante Canva.</li>
+<li>Elaboración propia mediante Genially</li>
+<li>Pictogramas ARASAAC (Sergio Palao).<strong></strong></li>
+</ul>
+<p><strong>Licencia</strong><br />Creative Commons BY-NC-SA.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>🐬 CRÉDITOS 🐬</p>\n<p><strong>Autora:</strong> Irene Sánchez Martín</p>\n<p><strong>Descripción</strong><br />Situación de Aprendizaje dirigida a alumnado de 5 años de aula específica TEA.</p>\n<p><strong>Herramientas utilizadas:</strong></p>\n<ul>\n<li>Canva</li>\n<li>Genially</li>\n<li>Prezi</li>\n<li>Voki</li>\n<li>Classroom</li>\n<li>Kahoot</li>\n<li>eXeLearning</li>\n<li>ARASAAC</li>\n</ul>\n<p><strong>Recursos visuales<br /></strong></p>\n<ul>\n<li>Elaboración propia mediante Canva.</li>\n<li>Elaboración propia mediante Genially</li>\n<li>Pictogramas ARASAAC (Sergio Palao).<strong></strong></li>\n</ul>\n<p><strong>Licencia</strong><br />Creative Commons BY-NC-SA.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq6huuhx-j5t4rscfn</odePageId>
+      <odeBlockId>block-mq4wb8ud-p699l2w9g</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6huuhx-j5t4rscfn</odePageId>
+          <odeBlockId>block-mq4wb8ud-p699l2w9g</odeBlockId>
+          <odeIdeviceId>idevice-mq4wb8ud-rte0xwxxr</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Almería Salvaje</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Esta situación de aprendizaje trabaja los animales terrestres y marinos a través de la fauna de nuestra provincia: Almería. Está enfocado en alumnado NEAE del curso de 5 años.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Irene Sánchez Martín</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
